@@ -1,6 +1,6 @@
 # 🌟 Portfólio - Miel Velazquez
 
-Bem-vindo ao meu portfólio pessoal!  
+Bem-vindo ao meu portfólio!  
 Aqui apresento minhas habilidades, projetos, formação, livros lidos e interesses.  
 Sou estudante de **Ciência da Computação** e futura **Desenvolvedora**.
 
@@ -20,11 +20,10 @@ Sou estudante de **Ciência da Computação** e futura **Desenvolvedora**.
 
 ## 📖 Sobre Mim
 
-Olá, meu nome é **Miel**, tenho 19 anos e sou apaixonada por tecnologia.  
-Comecei a estudar programação aos 17 anos no **SENAI**, concluindo o curso técnico em **Análise e Desenvolvimento de Sistemas**.  
-Atualmente curso **Ciência da Computação na UNOESTE** e busco me tornar uma **Desenvolvedora**.  
-
-Além da tecnologia, aprendi de forma **autônoma a tocar violão** e estudo **francês e alemão** por interesse em morar na Bélgica e conhecer novas culturas.
+Olá, meu nome é Miel, tenho 19 anos e gosto de tecnologia desde que me entendo por gente.
+Comecei a estudar programação no SENAI aos 17 anos, onde finalizei o curso técnico em Análise e Desenvolvimento de Sistemas.
+Atualmente curso Ciência da Computação na UNOESTE e tenho como objetivo me tornar uma melhor desenvolvedora a cada dia.
+Sou dedicada, comunicativa e obcecada em aprender coisas novas, sempre buscando evolução pessoal e profissional.
 
 ---
 
@@ -44,29 +43,20 @@ Além da tecnologia, aprendi de forma **autônoma a tocar violão** e estudo **f
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| Sistema de Pedidos | Projeto final SENAI em Python | [GitHub](https://github.com/MielVelazquezz) |
-| Jogo Scratch | Lógica matemática e interatividade | [GitHub](https://github.com/MielVelazquezz) |
-| Portfólio Pessoal | Site desenvolvido com HTML, CSS e JS | [GitHub](https://github.com/MielVelazquezz/Portfolio) |
+| Massas Mias | Sistema de restaurante em Python (Projeto final SENAI) | [GitHub](https://github.com/MielVelazquezz/massasmiasProject) |
+| The Octopus | Site e-commerce para venda de <em>skins</em> para jogos. | [GitHub](https://github.com/MielVelazquezz/theoctopus) |
+| Jogo Jump no Arduino | Jogo com o objetivo de desviar da maior quantidade de obstáculos. | [GitHub](https://www.tinkercad.com/things/2OumgaVaMPX-jogo-jump-lcd?sharecode=D_K4929X_v937-UqOMxerFhF3nKwn8JS0CT8HC66aEA) |
 
 ---
 
 ## 📚 Livros Lidos
 
-| Livro | Resenha | Nota |
-|-------|---------|-----|
-| Alan Turing | Fascinante história do pai da computação. Mostra como a lógica e persistência transformam o mundo. | ⭐⭐⭐⭐⭐ |
-| Código Da Vinci | Envolvente e cheio de mistérios. Estimula raciocínio lógico e percepção histórica. | ⭐⭐⭐⭐ |
-| Entendendo Algoritmos | Aprendizado claro sobre lógica e programação, ideal para iniciantes. | ⭐⭐⭐⭐⭐ |
-| O Poder dos Quietos | Inspirador para entender personalidades e habilidades interpessoais. | ⭐⭐⭐⭐ |
-
----
-
-## 🖥️ Linguagens de Programação
-
-- **Python:** 85%
-- **C:** 70%
-- **HTML & CSS:** 80%
-- **Scratch:** 90%
+| Livros lidos recentemente |
+|-------|
+| Alan Turing |
+| Código Da Vinci |
+| Entendendo Algoritmos |
+| O Poder dos Quietos |
 
 ---
 
@@ -80,28 +70,9 @@ Além da tecnologia, aprendi de forma **autônoma a tocar violão** e estudo **f
 
 ---
 
-## 🎮 Lazer e Curiosidades
-
-- Jogar videogames e Sudoku
-- Vôlei e xadrez
-- Ler livros e assistir filmes de ficção científica
-- Projetos com Arduino/Raspberry
-- Aprender novos idiomas e tocar violão
-
----
-
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mieljazmim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miel-j-velazquez-d-s-b14473221/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MielVelazquezz)
 
----
-
-## 📷 Screenshot do Portfólio
-
-![Portfólio Miel Velazquez](images/portfolio-screenshot.png)
-
----
-
-Feito com ❤️ por **Miel Velazquez** - 2025
