@@ -45,28 +45,18 @@ Sou dedicada, comunicativa e obcecada em aprender coisas novas, sempre buscando 
 |---------|-----------|------|
 | Massas Mias | Sistema de restaurante em Python (Projeto final SENAI) | [GitHub](https://github.com/MielVelazquezz/massasmiasProject) |
 | The Octopus | Site e-commerce para venda de <em>skins</em> para jogos. | [GitHub](https://github.com/MielVelazquezz/theoctopus) |
-| Jogo Jump no Arduino | Jogo com o objetivo de desviar da maior quantidade de obstáculos. | [GitHub](https://www.tinkercad.com/things/2OumgaVaMPX-jogo-jump-lcd?sharecode=D_K4929X_v937-UqOMxerFhF3nKwn8JS0CT8HC66aEA) |
+| Jogo Jump no Arduino | Jogo com o objetivo de desviar da maior quantidade de obstáculos. | [TinkerCad](https://www.tinkercad.com/things/2OumgaVaMPX-jogo-jump-lcd?sharecode=D_K4929X_v937-UqOMxerFhF3nKwn8JS0CT8HC66aEA) |
 
 ---
 
-## 📚 Livros Lidos
+## 📚 Livros lidos recentemente
 
-| Livros lidos recentemente |
+  | Título |
 |-------|
 | Alan Turing |
 | Código Da Vinci |
 | Entendendo Algoritmos |
 | O Poder dos Quietos |
-
----
-
-## 🤝 Habilidades Interpessoais
-
-- Trabalho em equipe
-- Boa comunicação
-- Organização e gestão de tempo
-- Raciocínio lógico
-- Vontade de aprender e se desenvolver
 
 ---
 
