@@ -8,12 +8,12 @@ Sou estudante de **Ciência da Computação** e futura **Desenvolvedora**.
 
 ## 📌 Seções do Portfólio
 
-- [Sobre Mim](#sobre-mim) – Foto e descrição pessoal.
-- [Formação e Cursos](#formação-e-cursos) – Histórico acadêmico e cursos complementares.
+- [Sobre Mim](#sobre) – Foto e descrição pessoal.
+- [Formação e Cursos](#formação) – Histórico acadêmico e cursos complementares.
 - [Projetos](#projetos) – Meus projetos com imagens e links.
 - [Livros](#livros) – Livros lidos com resenha e nota pessoal.
-- [Habilidades Interpessoais](#habilidades-interpessoais) – Comunicação, organização e mais.
-- [Lazer e Curiosidades](#lazer-e-curiosidades) – Passatempos e aprendizados autônomos.
+- [Habilidades Interpessoais](#habilidades) – Comunicação, organização e mais.
+- [Lazer e Curiosidades](#lazer) – Passatempos e aprendizados autônomos.
 - [Contato](#contato) – Ícones clicáveis para e-mail, LinkedIn e GitHub.
 
 ---
