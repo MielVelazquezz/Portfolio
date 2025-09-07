@@ -51,12 +51,12 @@ Sou dedicada, comunicativa e obcecada em aprender coisas novas, sempre buscando 
 
 ## 📚 Livros lidos recentemente
 
-  | Título |
-|-------|
-| Alan Turing |
-| Código Da Vinci |
-| Entendendo Algoritmos |
-| O Poder dos Quietos |
+  | Título | Autor |
+|-------|-------|
+| A Morte e a vida de Alan Turing | David LagerCrantz |
+| Código Da Vinci | Dan Brown |
+| Entendendo Algoritmos | Andtya Y. Bhargava |
+| O Poder dos Quietos | Susan Cain |
 
 ---
 
